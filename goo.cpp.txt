@@ -1,1 +1,17 @@
-this is my file only
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+ clrscr();
+cout<<"enter you name";
+cin>>a;
+if(a>=0)
+{
+cout<<"manoranjan";
+}
+else
+{
+cout<<"ranjan";
+}
+getch();
+}
