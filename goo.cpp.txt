@@ -15,3 +15,27 @@ cout<<"ranjan";
 }
 getch();
 }
+
+void get()
+{
+cout<<"enter any number";
+cin>>a;
+if(a==0)
+{
+cout<<"not either";
+{
+else if(a<0)
+{
+cout<<"negative";
+}
+else
+{
+cout<<"positive";
+}
+
+}
+
+
+
+
+
